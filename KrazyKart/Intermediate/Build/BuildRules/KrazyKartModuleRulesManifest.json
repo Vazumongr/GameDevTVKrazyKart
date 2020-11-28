@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\troy\\Documents\\Repositories\\Githubslabs\\GameDevTVKrazyKart\\KrazyKart\\Source\\KrazyKart\\KrazyKart.Build.cs",
+		"C:\\Users\\troy\\Documents\\Repositories\\Githubslabs\\GameDevTVKrazyKart\\KrazyKart\\Source\\KrazyKart.Target.cs",
+		"C:\\Users\\troy\\Documents\\Repositories\\Githubslabs\\GameDevTVKrazyKart\\KrazyKart\\Source\\KrazyKartEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.4"
+}

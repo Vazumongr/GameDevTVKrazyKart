@@ -1,0 +1,2 @@
+C:\Users\troy\Documents\Repositories\Githubslabs\GameDevTVKrazyKart\KrazyKart\Intermediate\Build\Win64\UE4Editor\Development\KrazyKart\Definitions.KrazyKart.h
+C:\Users\troy\Documents\Repositories\Githubslabs\GameDevTVKrazyKart\KrazyKart\Source\KrazyKart\KrazyKart.h

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "KrazyKart",
+			"Path": "C:\\Users\\troy\\Documents\\Repositories\\Githubslabs\\GameDevTVKrazyKart\\KrazyKart\\Source\\KrazyKart.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "KrazyKartEditor",
+			"Path": "C:\\Users\\troy\\Documents\\Repositories\\Githubslabs\\GameDevTVKrazyKart\\KrazyKart\\Source\\KrazyKartEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
