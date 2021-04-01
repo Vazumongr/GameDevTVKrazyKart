@@ -27,8 +27,31 @@ public:
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
 private:
-	void MoveForward(float value);
+	
+	void MoveForward(float Value);
+	void MoveRight(float Value);
+	
+	void UpdateLocationFromVelocity(float DeltaTime);
+	void ApplyRotation(float DeltaTime);
+	
+	FVector GetResistance();
 	
 	FVector Velocity;
+	/* Mass in Kilograms */
+	UPROPERTY(EditAnywhere, Category = "Physics")
+	float Mass = 1000.f;
+	
+	/* Max Driving Force that can be applied to the vehicle */
+	UPROPERTY(EditAnywhere, Category = "Physics")
+	float MaxDrivingForce = 10000.f;
+	/* Max Degrees per second for rotating the vehicle */
+	UPROPERTY(EditAnywhere, Category = "Physics")
+	float MaxDegreesPerSecond = 90.f;
+	/* Coefficient used for calculating AirResistance */
+	UPROPERTY(EditAnywhere, Category = "Physics")
+	float DragCoefficient = 16;
+
+	float Throttle;
+	float SteeringThrow;
 
 };

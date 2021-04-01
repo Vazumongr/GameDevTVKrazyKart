@@ -58,7 +58,13 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AGoKart); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AGoKart)
 
 
-#define KrazyKart_Source_KrazyKart_GoKart_h_12_PRIVATE_PROPERTY_OFFSET
+#define KrazyKart_Source_KrazyKart_GoKart_h_12_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__Mass() { return STRUCT_OFFSET(AGoKart, Mass); } \
+	FORCEINLINE static uint32 __PPO__MaxDrivingForce() { return STRUCT_OFFSET(AGoKart, MaxDrivingForce); } \
+	FORCEINLINE static uint32 __PPO__MaxDegreesPerSecond() { return STRUCT_OFFSET(AGoKart, MaxDegreesPerSecond); } \
+	FORCEINLINE static uint32 __PPO__DragCoefficient() { return STRUCT_OFFSET(AGoKart, DragCoefficient); }
+
+
 #define KrazyKart_Source_KrazyKart_GoKart_h_9_PROLOG
 #define KrazyKart_Source_KrazyKart_GoKart_h_12_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \

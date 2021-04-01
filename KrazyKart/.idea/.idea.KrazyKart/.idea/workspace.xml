@@ -24,62 +24,81 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2085657-6ae0-4534-83d3-46a5cf4428ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.KrazyKart/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.KrazyKart/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.KrazyKart/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.KrazyKart/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.KrazyKart/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.KrazyKart/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.KrazyKart/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.KrazyKart/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-KrazyKart-0002.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-KrazyKart-7191.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/KrazyKarts/BPs/BP_GameMode.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/KrazyKarts/BPs/BP_GoKart.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/KrazyKartEditor/Development/DependencyCache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/KrazyKartEditor/Development/HotReload.state" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/KrazyKartEditor/Development/Metadata-HotReload.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/Definitions.KrazyKart.h.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/GoKart.cpp.obj.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/GoKart.cpp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/GoKart.gen.cpp.obj.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/GoKart.gen.cpp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/KrazyKart.cpp.obj.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/KrazyKart.init.gen.cpp.obj.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/KrazyKartGameMode.cpp.obj.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/KrazyKartGameMode.gen.cpp.obj.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/KrazyKartHud.cpp.obj.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/KrazyKartHud.gen.cpp.obj.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/KrazyKartPawn.cpp.obj.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/KrazyKartPawn.gen.cpp.obj.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/KrazyKartWheelFront.cpp.obj.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/KrazyKartWheelFront.gen.cpp.obj.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/KrazyKartWheelRear.cpp.obj.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/KrazyKartWheelRear.gen.cpp.obj.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0002.dll.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0002.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0002.lib.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0002.suppressed.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-7191.dll.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-7191.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-7191.lib.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-7191.suppressed.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart.dll.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart.lib.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Inc/KrazyKart/GoKart.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Inc/KrazyKart/GoKart.generated.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Config/CoalescedSourceConfigs/EditorPerProjectUserSettings.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/VehicleCPP/Maps/VehicleExampleMap_Auto1.umap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Backup/BP_GameMode_2020-11-27-18-19-59.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Backup/BP_GoKart_2020-11-27-18-23-06.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Backup/VehicleExampleMap_2020-11-27-18-12-43.umap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Backup/VehicleExampleMap_2020-11-27-18-18-44.umap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Backup/VehicleExampleMap_BuiltData_2020-11-27-18-18-44.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Config/WorldState/967283859.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/KrazyKart/GoKart.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/KrazyKart/GoKart.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-KrazyKart-0003.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-KrazyKart-0004.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-KrazyKart-0005.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-KrazyKart-0006.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-KrazyKart-0007.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-KrazyKart-0008.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-KrazyKart-0009.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-KrazyKart-0010.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-KrazyKart-0011.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-KrazyKart-0012.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0003.dll.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0003.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0003.lib.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0003.suppressed.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0004.dll.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0004.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0004.lib.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0004.suppressed.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0005.dll.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0005.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0005.lib.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0005.suppressed.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0006.dll.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0006.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0006.lib.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0006.suppressed.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0007.dll.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0007.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0007.lib.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0007.suppressed.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0008.dll.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0008.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0008.lib.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0008.suppressed.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0009.dll.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0009.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0009.lib.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0009.suppressed.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0010.dll.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0010.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0010.lib.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0010.suppressed.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0011.dll.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0011.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0011.lib.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0011.suppressed.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0012.dll.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0012.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0012.lib.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/KrazyKart/UE4Editor-KrazyKart-0012.suppressed.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Backup/BP_GoKart_2020-11-28-18-07-26.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Backup/VehicleExampleMap_2020-11-28-19-19-40.umap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Backup/VehicleExampleMap_BuiltData_2020-11-28-19-19-40.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-CF7BEF4D4F3DC21954E21E97305A0394/CrashReportClient.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Logs/KrazyKart-backup-2020.11.27-23.32.39.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.KrazyKart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.KrazyKart/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UE4Editor.modules" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor.modules" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/KrazyKarts/BPs/BP_GoKart.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/KrazyKarts/BPs/BP_GoKart.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/VehicleCPP/Maps/VehicleExampleMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/VehicleCPP/Maps/VehicleExampleMap.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/KrazyKartEditor/ActionHistory.dat" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/KrazyKartEditor/ActionHistory.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/KrazyKartEditor/Development/DependencyCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/KrazyKartEditor/Development/DependencyCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/KrazyKartEditor/Development/HotReload.state" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/KrazyKartEditor/Development/HotReload.state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/KrazyKartEditor/Development/Metadata-HotReload.dat" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/KrazyKartEditor/Development/Metadata-HotReload.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Inc/KrazyKart/GoKart.gen.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Inc/KrazyKart/GoKart.gen.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Inc/KrazyKart/GoKart.generated.h" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Inc/KrazyKart/GoKart.generated.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Inc/KrazyKart/KrazyKart.init.gen.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Inc/KrazyKart/KrazyKart.init.gen.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/.Rider/Win64/Development/Editor/UE4.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/.Rider/Win64/Development/Editor/UE4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/Windows/EditorPerProjectUserSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/Windows/EditorPerProjectUserSettings.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/Windows/Engine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/Windows/Engine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/KrazyKart.log" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Logs/KrazyKart.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/KrazyKart/GoKart.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/KrazyKart/GoKart.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/KrazyKart/GoKart.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/KrazyKart/GoKart.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -442,13 +461,14 @@
       <option name="presentableId" value="Default" />
       <updated>1606518102565</updated>
       <workItem from="1606518186502" duration="1478000" />
+      <workItem from="1606602511756" duration="6622000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -460,6 +480,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
